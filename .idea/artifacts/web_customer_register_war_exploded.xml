@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="web-customer-register:war exploded">
-    <output-path>$PROJECT_DIR$/target/spring-crm</output-path>
+    <output-path>$PROJECT_DIR$/target/spring-web-customer-tracker-all-java-config</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -44,13 +44,12 @@
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
           <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.3" />
           <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.15" />
-          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.3.0" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.3.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/spring-crm/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/spring-web-customer-tracker-all-java-config/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="web-customer-register/web/Web" />
     </root>

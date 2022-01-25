@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="spring-crm.war">
+    <root id="archive" name="spring-web-customer-tracker-all-java-config.war">
       <element id="artifact" artifact-name="web-customer-register:war exploded" />
     </root>
   </artifact>
